@@ -1,14 +1,3 @@
-//Дано:
-// let amount = 100;
-// let monday = [
-//   ['Write a tutorial',180],
-//   ['Some web development',120]
-// ];
-// let tuesday = [
-//   ['Keep writing that tutorial',240],
-//   ['Some more web development',360],
-//    ['A whole lot of nothing',240]
-// ];
 // Для элементов массивов monday и tuesday необходимо выполнить следующие методы:
 // Сконвертировать время потраченное на выполнение задач в часы, вместо минут.
 // Оставить только те задачи, на выполнение которых нужно более 2-х часов.
